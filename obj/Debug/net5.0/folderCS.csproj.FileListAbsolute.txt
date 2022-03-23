@@ -1,0 +1,16 @@
+F:\folderCS\bin\Debug\net5.0\folderCS.exe
+F:\folderCS\bin\Debug\net5.0\folderCS.deps.json
+F:\folderCS\bin\Debug\net5.0\folderCS.runtimeconfig.json
+F:\folderCS\bin\Debug\net5.0\folderCS.runtimeconfig.dev.json
+F:\folderCS\bin\Debug\net5.0\folderCS.dll
+F:\folderCS\bin\Debug\net5.0\ref\folderCS.dll
+F:\folderCS\bin\Debug\net5.0\folderCS.pdb
+F:\folderCS\obj\Debug\net5.0\folderCS.csproj.AssemblyReference.cache
+F:\folderCS\obj\Debug\net5.0\folderCS.GeneratedMSBuildEditorConfig.editorconfig
+F:\folderCS\obj\Debug\net5.0\folderCS.AssemblyInfoInputs.cache
+F:\folderCS\obj\Debug\net5.0\folderCS.AssemblyInfo.cs
+F:\folderCS\obj\Debug\net5.0\folderCS.csproj.CoreCompileInputs.cache
+F:\folderCS\obj\Debug\net5.0\folderCS.dll
+F:\folderCS\obj\Debug\net5.0\ref\folderCS.dll
+F:\folderCS\obj\Debug\net5.0\folderCS.pdb
+F:\folderCS\obj\Debug\net5.0\folderCS.genruntimeconfig.cache
